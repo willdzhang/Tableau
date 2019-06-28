@@ -31,11 +31,11 @@ files include:
 
 Citi Bike Daily Ridership and Membership Data from April 2018 to March 2019
  
-(Images/genderNage.jpg)
+![GenderandAge](Images/genderNage.jpg)
 
-(Images/popular-station.png)
+![stations](Images/popular-station.png)
 
-(Images/top10.jpg)
+![topstations](Images/top10.jpg)
 
 
 
