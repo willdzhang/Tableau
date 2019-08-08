@@ -14,17 +14,29 @@ Aggregate the data found in the Citi Bike Trip History Logs to build a data dash
 
 Data for one year from the last available is first collect from resource link: https://s3.amazonaws.com/tripdata/index.html
 files include:
+
 201805-citibike-tripdata.csv.zip
+
 201806-citibike-tripdata.csv.zip
+
 201807-citibike-tripdata.csv.zip
+
 201808-citibike-tripdata.csv.zip
+
 201809-citibike-tripdata.csv.zip
+
 201810-citibike-tripdata.csv.zip
+
 201811-citibike-tripdata.csv.zip
+
 201812-citibike-tripdata.csv.zip
+
 201901-citibike-tripdata.csv.zip
+
 201902-citibike-tripdata.csv.zip
+
 201903-citibike-tripdata.csv.zip
+
 201904-citibike-tripdata.csv.zip
 
 Citi Bike Daily Ridership and Membership Data from April 2018 to March 2019
